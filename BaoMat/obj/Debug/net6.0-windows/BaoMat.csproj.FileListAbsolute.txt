@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\bin\Debug\net6.0-windows\BaoMat.exe
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\bin\Debug\net6.0-windows\BaoMat.deps.json
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\bin\Debug\net6.0-windows\BaoMat.runtimeconfig.json
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\bin\Debug\net6.0-windows\BaoMat.dll
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\bin\Debug\net6.0-windows\BaoMat.pdb
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\obj\Debug\net6.0-windows\BaoMat.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\obj\Debug\net6.0-windows\BaoMat.Form1.resources
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\obj\Debug\net6.0-windows\BaoMat.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\obj\Debug\net6.0-windows\BaoMat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\obj\Debug\net6.0-windows\BaoMat.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\obj\Debug\net6.0-windows\BaoMat.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\obj\Debug\net6.0-windows\BaoMat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\obj\Debug\net6.0-windows\BaoMat.dll
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\obj\Debug\net6.0-windows\refint\BaoMat.dll
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\obj\Debug\net6.0-windows\BaoMat.pdb
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\obj\Debug\net6.0-windows\BaoMat.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\BaoMat\BaoMat\obj\Debug\net6.0-windows\ref\BaoMat.dll
