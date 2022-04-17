@@ -2,22 +2,21 @@ using System;
 
 namespace BaoMat
 {
-    public partial class Form1 : Form
+    public partial class Vigenere : Form
     {
 		public string input;
 		public string output;
 		public string key;
-        public Form1()
+        public Vigenere()
         {
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-        }
 
+		private void Form1_Load(object sender, EventArgs e)
+		{
 
-
+		}
 
 		#region Vigenere
 
@@ -100,6 +99,16 @@ namespace BaoMat
 
         }
 
+
+
         #endregion
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+			this.Hide();
+			var menu = new Menu();
+			menu.Show();
+
+		}
     }
 }

@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\kcmer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\BaoMat\\BaoMat\\BaoMat.csproj",
+      "projectUniqueName": "E:\\Repositories\\BaoMat\\BaoMat\\BaoMat.csproj",
       "projectName": "BaoMat",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\BaoMat\\BaoMat\\BaoMat.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\BaoMat\\BaoMat\\obj\\",
+      "projectPath": "E:\\Repositories\\BaoMat\\BaoMat\\BaoMat.csproj",
+      "packagesPath": "C:\\Users\\kcmer\\.nuget\\packages\\",
+      "outputPath": "E:\\Repositories\\BaoMat\\BaoMat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kcmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
